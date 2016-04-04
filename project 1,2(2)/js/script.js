@@ -13,7 +13,7 @@ function proverkaZna4enya(value, array){
       return true;
     }
    }
-     return false;
+   return false;
 }
 
    if(proverkaZna4enya(userName, arrayName)){

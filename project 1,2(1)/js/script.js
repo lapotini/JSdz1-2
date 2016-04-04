@@ -15,7 +15,7 @@ function pow(num, degr){
 
     console.log('Результат ' + i + ' = ' + result);
   }
- 
+
   for (var i = 1; i < 6; i++){
     var numEnter = prompt("Vvedite chislo №" + i);
     var degrEnter = prompt("Vvedite stepen' №" + i);
